@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version     = HashShortcut::VERSION
   s.licenses    = ["MIT"]
   s.summary     = ""
-  s.description = "shortcut to access hash values in a block"
+  s.description = "Adds a shortcut to access hash values in a block"
   s.author      = "dalexj"
   s.email       = "96dalex@gmail.com"
   s.files       = ["lib/hash_shortcut.rb"]
